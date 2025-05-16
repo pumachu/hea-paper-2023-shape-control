@@ -1,7 +1,7 @@
 # hea-paper-2023-shape-control
 This is the repository of the work "Toward Controllable and Predictable Synthesis of High-Entropy-Alloy Nanocrystals," containing the inputs and outputs of VASP computations. The results are summarized in **Figure 1**.
 
-## Article information:  
+## Article information  
 Toward controllable and predictable synthesis of high-entropy alloy nanocrystals
 Yi-Hong Liu, Chia-Jui Hsieh, Liang-Ching Hsu, Kun-Han Lin, Yueh-Chun Hsiao,Chong-Chi Chi, Jui-Tai Lin, Chun-Wei Chang, Shang-Cheng Lin, Cheng-Yu Wu, Jia-Qi Gao,Chih-Wen Pao, Yin-Mei Chang, Ming-Yen Lu, Shan Zhou, Tung-Han Yang*
 Science Advances 2023, 9, eadf9931, https://www.science.org/doi/full/10.1126/sciadv.adf9931    
