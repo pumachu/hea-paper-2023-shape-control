@@ -1,10 +1,10 @@
 # hea-paper-2023-shape-control
 This is the repository of the work "Toward Controllable and Predictable Synthesis of High-Entropy-Alloy Nanocrystals," containing the inputs and outputs of VASP computations. The results are summarized in **Figure 1**.
 
-Article information:
+Article information:  
 Toward controllable and predictable synthesis of high-entropy alloy nanocrystals
 Yi-Hong Liu, Chia-Jui Hsieh, Liang-Ching Hsu, Kun-Han Lin, Yueh-Chun Hsiao,Chong-Chi Chi, Jui-Tai Lin, Chun-Wei Chang, Shang-Cheng Lin, Cheng-Yu Wu, Jia-Qi Gao,Chih-Wen Pao, Yin-Mei Chang, Ming-Yen Lu, Shan Zhou, Tung-HanYang*
-Science Advances 2023, 9, eadf9931, https://www.science.org/doi/full/10.1126/sciadv.adf9931
+Science Advances 2023, 9, eadf9931, https://www.science.org/doi/full/10.1126/sciadv.adf9931  
 
 ![image](https://user-images.githubusercontent.com/72870425/222903421-cdb26a69-35e3-4fc1-80e0-ce7713f48a6e.png)
 **Figure 1.** The $\Delta G_{H^*}$ distribution of ~200 H-adsorbate configurations of 4 different types of slabs. The computational details can be found in the Supporting Information of the main article.
